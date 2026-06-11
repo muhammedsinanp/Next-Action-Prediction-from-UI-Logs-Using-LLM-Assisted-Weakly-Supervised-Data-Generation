@@ -6,8 +6,9 @@ This project predicts user behavior from interaction logs. It includes:
 - No-assistance F1 score prediction (regression) using Ridge, Random Forest, and LSTM
 
 ## How to run
-
+```bash
 git clone https://github.com/muhammedsinanp/Next-Action-Prediction-from-UI-Logs-Using-LLM-Assisted-Weakly-Supervised-Data-Generation.git
+```
 
 1. Generate synthetic data (optional)
 ```bash
