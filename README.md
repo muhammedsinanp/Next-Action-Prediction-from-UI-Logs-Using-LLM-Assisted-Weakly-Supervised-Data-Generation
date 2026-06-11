@@ -7,6 +7,8 @@ This project predicts user behavior from interaction logs. It includes:
 
 ## How to run
 
+git clone https://github.com/muhammedsinanp/Next-Action-Prediction-from-UI-Logs-Using-LLM-Assisted-Weakly-Supervised-Data-Generation.git
+
 1. Generate synthetic data (optional)
 ```bash
 python synthetic_generation.py
